@@ -1,0 +1,19 @@
+============================================================
+RESULTADOS DA COLORAÇÃO DSATUR
+============================================================
+
+Grafo de entrada: data/grafo_professor.gv
+Número de vértices: 20
+Número de arestas: 38
+
+COLORAÇÃO:
+----------------------------------------
+Cor  1: ['5', '8', '12', '14', '18']
+Cor  2: ['4', '6', '9', '13', '16', '19', '20']
+Cor  3: ['2', '7', '11', '15']
+Cor  4: ['1', '10', '17']
+Cor  5: ['3']
+
+Total de cores utilizadas: 5
+
+Validação: Coloração válida (nenhum par de vértices adjacentes tem a mesma cor)
